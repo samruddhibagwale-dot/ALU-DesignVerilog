@@ -1,0 +1,5 @@
+Simulation Report – ALU Design
+
+The ALU supports addition, subtraction, AND, OR and NOT operations.
+The output changes correctly based on the ALU select signal.
+All operations were verified using a Verilog testbench.
